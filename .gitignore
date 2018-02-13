@@ -1,0 +1,9 @@
+#---- user specific config files  ------
+
+.classpath
+.project
+
+
+#-----maven created artifacts -----
+ 
+target
